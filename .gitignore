@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+#Data
+/data
+
+#Notes_private (added by Lori 6/3/2020)
+/notes_private
+
 # Distribution / packaging
 .Python
 build/
